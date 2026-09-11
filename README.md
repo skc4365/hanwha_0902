@@ -23,10 +23,10 @@
 [https://www.w3schools.com/python/matplotlib_intro.asp]
 [https://matplotlib.org/stable/tutorials/pyplot.html]
 
+---
+
 ### Pydantic 
 [https://pydantic.dev/docs/validation/latest/get-started/]
-
----
 
 ### Streamlit
 [https://docs.streamlit.io/get-started]
@@ -42,10 +42,16 @@
 [https://docs.langchain.com/oss/python/langchain/knowledge-base]
 
 문서로더   [https://docs.langchain.com/oss/python/integrations/document_loaders]
+
 텍스트분할 [https://docs.langchain.com/oss/python/integrations/splitters]
+
 임베딩     [https://docs.langchain.com/oss/python/integrations/embeddings]
+
 벡터(값)저장소 [https://docs.langchain.com/oss/python/integrations/vectorstores/]
+
 리트리버   [https://docs.langchain.com/oss/python/integrations/vectorstores/]
+
+
 
 
 
