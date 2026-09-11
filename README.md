@@ -37,5 +37,15 @@
 ---
 
 
-### 
+### RAG
+[https://docs.langchain.com/oss/python/deepagents/retrieval]
+[https://docs.langchain.com/oss/python/langchain/knowledge-base]
+
+문서로더   [https://docs.langchain.com/oss/python/integrations/document_loaders]
+텍스트분할 [https://docs.langchain.com/oss/python/integrations/splitters]
+임베딩     [https://docs.langchain.com/oss/python/integrations/embeddings]
+벡터(값)저장소 [https://docs.langchain.com/oss/python/integrations/vectorstores/]
+리트리버   [https://docs.langchain.com/oss/python/integrations/vectorstores/]
+
+
 
