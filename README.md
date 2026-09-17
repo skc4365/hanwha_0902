@@ -7,6 +7,9 @@
 [https://docs.astral.sh/uv/getting-started/installation/#installation-methods]
 
 ---
+
+## 파이썬과 데이터
+
 ### 파이썬 기본문법
 [https://www.w3schools.com/python/default.asp]
 [https://docs.python.org/3.12/tutorial/index.html]
@@ -25,6 +28,8 @@
 
 ---
 
+## 파이썬 FullStack 구조
+
 ### Pydantic 
 [https://pydantic.dev/docs/validation/latest/get-started/]
 
@@ -36,8 +41,20 @@
 
 ---
 
+## LangChain과 LCEL
 
-### RAG
+프롬프트 [https://docs.langchain.com/langsmith/create-a-prompt]
+
+구조화된 출력 [https://docs.langchain.com/oss/python/langchain/structured-output]
+
+모델 [https://docs.langchain.com/oss/python/langchain/models]
+
+메모리 [https://docs.langchain.com/oss/python/concepts/memory]
+
+---
+
+## RAG 생성 
+
 [https://docs.langchain.com/oss/python/deepagents/retrieval]
 [https://docs.langchain.com/oss/python/langchain/knowledge-base]
 
