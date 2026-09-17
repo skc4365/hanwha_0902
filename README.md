@@ -6,6 +6,9 @@
 ### uv
 [https://docs.astral.sh/uv/getting-started/installation/#installation-methods]
 
+### 윈도우 DOS명령어
+[https://learn.microsoft.com/ko-kr/windows-server/administration/windows-commands/command-line-syntax-key]
+
 ---
 
 ## 파이썬과 데이터
