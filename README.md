@@ -31,6 +31,11 @@
 
 ---
 
+### 미리보고, 마지막보고.
+[https://docs.langchain.com/oss/python/integrations/chat/openai]
+
+---
+
 ## 파이썬 FullStack 구조
 
 ### Pydantic 
